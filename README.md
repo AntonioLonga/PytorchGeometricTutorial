@@ -6,3 +6,11 @@ This project aims to learn the new amazing framework of Pytorch geometric.
 You can find video tutorials and the official website [here.](https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html)
 
 Feel free to join our weekly online tutorial, for more details, have a look at the  [official website.](https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html)
+
+### Tutorials:
+
+* Tutorial1: What is Geometric Deep Learning? 
+
+* Tutorial2: PyTorch basics.
+
+
