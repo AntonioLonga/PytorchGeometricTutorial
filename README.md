@@ -13,4 +13,12 @@ Feel free to join our weekly online tutorial, for more details, have a look at t
 
 * Tutorial2: PyTorch basics.
 
+* Tutorial3: Graph Attention Network GAT.
+
+* Tutorial4: Convolutional Layers - Spectral methods.
+
+* Tutorial5: Aggregation Functions in GNNs.
+
+* Tutorial6: Graph Autoencoders and Variational Graph Autoencoders.
+
 
