@@ -21,4 +21,5 @@ Feel free to join our weekly online tutorial, for more details, have a look at t
 
 * Tutorial6: Graph Autoencoders and Variational Graph Autoencoders.
 
+* Tutorial7: Adversarially regularized GAE and VGAE.
 
