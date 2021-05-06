@@ -25,3 +25,11 @@ Feel free to join our weekly online tutorial, for more details, have a look at t
 
 * Tutorial8: Graph Generation.
 
+* Tutorial9: Recurrent Graph Neural Networks.
+
+* Tutorial10: DeepWalk and Node2Vec (Theory).
+
+* Tutorial11: DeepWalk and Node2Vec (Practice).
+
+* Tutorial12: Edge analysis.
+
