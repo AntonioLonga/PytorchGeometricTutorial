@@ -33,3 +33,5 @@ Feel free to join our weekly online tutorial, for more details, have a look at t
 
 * Tutorial12: Edge analysis.
 
+* Tutorial12: Metapath2vec.
+
