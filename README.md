@@ -12,7 +12,7 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 ### Tutorials:
 
-* Tutorial1: [What is Geometric Deep Learning?](https://youtu.be/JtDgmmQ60x8) 
+* Tutorial1: [What is Geometric Deep Learning?](https://youtu.be/JtDgmmQ60x8) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial1/Tutorial1.ipynb)
 
 * Tutorial2: [PyTorch basics.](https://youtu.be/UHrhp2l_knU)
 
