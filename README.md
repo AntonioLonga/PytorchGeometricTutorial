@@ -42,7 +42,11 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial15: [Data handling in Pyg (part 2)](https://youtu.be/Q5T-JdyVCfs) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial15/Tutorial15.ipynb)
 
-* Tutorial16: [Special guest talk - Matthias Fey](https://youtu.be/MA6VH7Vwtb4) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial16/Tutorial16.ipynb)
+* Tutorial16: [Special guest talk - Matthias Fey](https://youtu.be/MA6VH7Vwtb4)
+
+* Tutorial17: [Special guest talk - Sergei Ivanov](https://youtu.be/hX297pr1RHE)
+
+* Tutorial18: [Graph pooling: DIFFPOOL.](https://youtu.be/Uqc3O3-oXxM) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial16/Tutorial16.ipynb)
 
 ### Installation of PyG:
 In order to have running notebooks in Colab, we use the following installation commands:
