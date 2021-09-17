@@ -44,3 +44,13 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial16: [Special guest talk - Matthias Fey](https://youtu.be/MA6VH7Vwtb4) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial16/Tutorial16.ipynb)
 
+### Installation of PyG:
+In order to have running notebooks in Colab, we use the following installation commands:
+```
+!pip install torch-scatter -f https://data.pyg.org/whl/torch-1.9.0+cu111.html
+!pip install torch-sparse -f https://data.pyg.org/whl/torch-1.9.0+cu111.html
+!pip install torch-geometric
+```
+These version are tested and running in Colab. If instead you run the notebooks on your machine, have a look at the PyG's [installation instructions](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) to find suitable versions.
+
+
