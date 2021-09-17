@@ -20,21 +20,21 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial4: [Convolutional Layers - Spectral methods.](https://youtu.be/Ghw-fp_2HFM) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial4/Tutorial4.ipynb)
 
-* Tutorial5: [Aggregation Functions in GNNs.](https://youtu.be/tGXovxQ7hKU) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial5/Tutorial5.ipynb)
+* Tutorial5: [Aggregation Functions in GNNs.](https://youtu.be/tGXovxQ7hKU) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial5/Aggregation%20Tutorial.ipynb)
 
 * Tutorial6: [Graph Autoencoders and Variational Graph Autoencoders.](https://youtu.be/qA6U4nIK62E) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial6/Tutorial6.ipynb)
 
 * Tutorial7: [Adversarially regularized GAE and VGAE.](https://youtu.be/hZkLu2OaHD0) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial7/Tutorial7.ipynb)
 
-* Tutorial8: [Graph Generation.](https://youtu.be/embpBq1gHAE) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial8/Tutorial8.ipynb)
+* Tutorial8: [Graph Generation.](https://youtu.be/embpBq1gHAE)
 
 * Tutorial9: [Recurrent Graph Neural Networks.](https://youtu.be/v7TQ2DUoaBY) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial9/Tutorial9.ipynb)
 
-* Tutorial10: [DeepWalk and Node2Vec (Theory).](https://youtu.be/QZQBnl1QbCQ) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial10/Tutorial10.ipynb)
+* Tutorial10: [DeepWalk and Node2Vec (Theory).](https://youtu.be/QZQBnl1QbCQ)
 
 * Tutorial11: [DeepWalk and Node2Vec (Practice).](https://youtu.be/5YOcpI3dB7I) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial11/Tutorial11.ipynb)
 
-* Tutorial12: [Edge analysis.](https://youtu.be/m1G7oS9hmwE) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial12/Tutorial12.ipynb)
+* Tutorial12: [Edge analysis.](https://youtu.be/m1G7oS9hmwE) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial12/Tutorial12%20GAE%20for%20link%20prediction.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial12/Tutorial12%20Node2Vec%20for%20label%20prediction.ipynb)
 
 * Tutorial13: [Metapath2vec.](https://youtu.be/GtPoGehuKYY) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial13/Tutorial13.ipynb)
 
