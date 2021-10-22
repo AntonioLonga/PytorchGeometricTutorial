@@ -1,0 +1,14 @@
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Longa
+    given-names: Antonio
+    orcid: https://orcid.org/0000-0003-0337-1838
+  - family-names: Pellegrini
+    given-names: Giovanni
+    orcid: hhttps://orcid.org/0000-0003-2848-8338
+  - family-names: Santin
+    given-names: Gabriele
+    orcid: https://orcid.org/0000-0001-6959-1070
+
+title: "PytorchGeometricTutorial"
+
