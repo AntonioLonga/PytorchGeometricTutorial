@@ -1,5 +1,5 @@
 # PytorchGeometricTutorial
-Hi! We are Antonio Longa and Giovanni Pellegrini, PhD students, and PhD Gabriele Santin, researcher, working between Fondazione Bruno Kessler and the University of Trento, Italy.
+Hi! We are Antonio Longa and Giovanni Pellegrini, PhD students, and Gabriele Santin, researcher, working between Fondazione Bruno Kessler and the University of Trento, Italy.
 
 This project aims to present through a series of tutorials various techniques in the field of Geometric Deep
 Learning, focusing on how they work and how to implement them using the [Pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
