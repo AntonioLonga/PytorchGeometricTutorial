@@ -11,4 +11,6 @@ authors:
     orcid: https://orcid.org/0000-0001-6959-1070
 
 title: "PytorchGeometricTutorial"
-
+version: 1.0.0
+date-released: 2021-10-23
+url: "https://github.com/AntonioLonga/PytorchGeometricTutorial"
