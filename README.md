@@ -48,6 +48,8 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial18: [Graph pooling: DIFFPOOL.](https://youtu.be/Uqc3O3-oXxM) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial16/Tutorial16.ipynb)
 
+* Tutorial19: [GNN for Network Traffic Prediction.](https://github.com/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial19/Tutorial19.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial19/Tutorial19.ipynb)
+
 ### Installation of PyG:
 In order to have running notebooks in Colab, we use the following installation commands:
 ```
